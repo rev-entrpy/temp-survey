@@ -1,0 +1,2 @@
+# Domains excluded from the coalesce-survey measurements (one per line; subdomains included).
+# Lines starting with '#' are ignored.
